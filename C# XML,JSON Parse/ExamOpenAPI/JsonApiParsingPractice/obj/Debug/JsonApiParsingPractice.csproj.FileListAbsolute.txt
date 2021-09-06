@@ -1,0 +1,10 @@
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\JsonApiParsingPractice.exe.config
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\JsonApiParsingPractice.exe
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\JsonApiParsingPractice.pdb
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.csproj.AssemblyReference.cache
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.csproj.CoreCompileInputs.cache
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.csproj.CopyComplete
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.exe
+C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.pdb

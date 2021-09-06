@@ -1,0 +1,10 @@
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\bin\Debug\ExamOpenAPI.exe.config
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\bin\Debug\ExamOpenAPI.exe
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\bin\Debug\ExamOpenAPI.pdb
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\obj\Debug\ExamOpenAPI.csproj.AssemblyReference.cache
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\obj\Debug\ExamOpenAPI.csproj.CoreCompileInputs.cache
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\obj\Debug\ExamOpenAPI.csproj.CopyComplete
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\obj\Debug\ExamOpenAPI.exe
+C:\Users\aceent\Desktop\ExamOpenAPI\ExamOpenAPI\obj\Debug\ExamOpenAPI.pdb

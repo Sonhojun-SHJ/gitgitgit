@@ -1,0 +1,7 @@
+D:\VSTest\ApiParsing\ApiParsing\bin\Debug\ApiParsing.exe.config
+D:\VSTest\ApiParsing\ApiParsing\bin\Debug\ApiParsing.exe
+D:\VSTest\ApiParsing\ApiParsing\bin\Debug\ApiParsing.pdb
+D:\VSTest\ApiParsing\ApiParsing\obj\Debug\ApiParsing.csproj.AssemblyReference.cache
+D:\VSTest\ApiParsing\ApiParsing\obj\Debug\ApiParsing.csproj.CoreCompileInputs.cache
+D:\VSTest\ApiParsing\ApiParsing\obj\Debug\ApiParsing.exe
+D:\VSTest\ApiParsing\ApiParsing\obj\Debug\ApiParsing.pdb

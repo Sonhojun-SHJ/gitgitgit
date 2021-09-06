@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiParsing", "ApiParsing\ApiParsing.csproj", "{AEC3620F-9594-46F9-834B-07868A32909D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlApiParsingPractice", "XmlApiParsingPractice\XmlApiParsingPractice.csproj", "{F4684FBE-E212-44D5-AFBF-19DF19C0CA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC3620F-9594-46F9-834B-07868A32909D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC3620F-9594-46F9-834B-07868A32909D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC3620F-9594-46F9-834B-07868A32909D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC3620F-9594-46F9-834B-07868A32909D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4684FBE-E212-44D5-AFBF-19DF19C0CA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4684FBE-E212-44D5-AFBF-19DF19C0CA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4684FBE-E212-44D5-AFBF-19DF19C0CA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4684FBE-E212-44D5-AFBF-19DF19C0CA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E192D3A0-5025-4136-B66E-1E19B6356CD0}
+	EndGlobalSection
+EndGlobal
