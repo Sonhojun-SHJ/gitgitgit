@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamOpenAPI", "ExamOpenAPI\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonApiParsingPractice", "JsonApiParsingPractice\JsonApiParsingPractice.csproj", "{A1F9CBAA-CFB2-4081-B0C1-6252F7AB45F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLoL", "ApiLoL\ApiLoL.csproj", "{71C9DEEB-7AC9-4B26-9AA8-A8D2FAE6D1AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A1F9CBAA-CFB2-4081-B0C1-6252F7AB45F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1F9CBAA-CFB2-4081-B0C1-6252F7AB45F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1F9CBAA-CFB2-4081-B0C1-6252F7AB45F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C9DEEB-7AC9-4B26-9AA8-A8D2FAE6D1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C9DEEB-7AC9-4B26-9AA8-A8D2FAE6D1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C9DEEB-7AC9-4B26-9AA8-A8D2FAE6D1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C9DEEB-7AC9-4B26-9AA8-A8D2FAE6D1AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,3 +8,13 @@ C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiPars
 C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.csproj.CopyComplete
 C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.exe
 C:\Users\aceent\Desktop\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.pdb
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\JsonApiParsingPractice.exe.config
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\JsonApiParsingPractice.exe
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\JsonApiParsingPractice.pdb
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\Newtonsoft.Json.dll
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\bin\Debug\Newtonsoft.Json.xml
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.csproj.AssemblyReference.cache
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.csproj.CoreCompileInputs.cache
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.csproj.CopyComplete
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.exe
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\JsonApiParsingPractice\obj\Debug\JsonApiParsingPractice.pdb

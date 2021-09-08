@@ -30,8 +30,8 @@ namespace ExamOpenAPI
                 var obj = JObject.Parse(data);
                 var list = obj["list"];
 
-                Console.WriteLine("============ List ============");
-                Console.WriteLine(obj);
+                //Console.WriteLine("============ List ============");
+                //Console.WriteLine(obj);
 
                 Console.WriteLine("============ Item ============");
                 foreach (var item in list)

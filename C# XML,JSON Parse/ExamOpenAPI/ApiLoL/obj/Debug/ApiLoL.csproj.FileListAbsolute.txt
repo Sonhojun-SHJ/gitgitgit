@@ -1,0 +1,13 @@
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\bin\Debug\ApiLoL.exe.config
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\bin\Debug\ApiLoL.exe
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\bin\Debug\ApiLoL.pdb
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\bin\Debug\Newtonsoft.Json.dll
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\bin\Debug\Newtonsoft.Json.xml
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\obj\Debug\ApiLoL.csproj.AssemblyReference.cache
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\obj\Debug\ApiLoL.Form1.resources
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\obj\Debug\ApiLoL.Properties.Resources.resources
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\obj\Debug\ApiLoL.csproj.GenerateResource.cache
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\obj\Debug\ApiLoL.csproj.CoreCompileInputs.cache
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\obj\Debug\ApiLoL.csproj.CopyComplete
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\obj\Debug\ApiLoL.exe
+D:\VSTest\gitgitgit\gitgitgit\C# XML,JSON Parse\ExamOpenAPI\ApiLoL\obj\Debug\ApiLoL.pdb
