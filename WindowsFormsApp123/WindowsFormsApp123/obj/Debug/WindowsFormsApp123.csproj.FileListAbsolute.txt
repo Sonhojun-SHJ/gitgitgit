@@ -1,0 +1,10 @@
+D:\test\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\WindowsFormsApp123.exe.config
+D:\test\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\WindowsFormsApp123.exe
+D:\test\WindowsFormsApp123\WindowsFormsApp123\bin\Debug\WindowsFormsApp123.pdb
+D:\test\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.csproj.AssemblyReference.cache
+D:\test\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.Form1.resources
+D:\test\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.Properties.Resources.resources
+D:\test\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.csproj.GenerateResource.cache
+D:\test\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.csproj.CoreCompileInputs.cache
+D:\test\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.exe
+D:\test\WindowsFormsApp123\WindowsFormsApp123\obj\Debug\WindowsFormsApp123.pdb
