@@ -1,1 +1,6 @@
 깃허브 c# 테스트
+git status
+git add *
+git status
+git commit -m "message"
+git push
